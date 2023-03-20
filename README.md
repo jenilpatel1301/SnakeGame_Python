@@ -43,6 +43,10 @@ This is a Python script for a simple Snake game built using Pygame library. Pyga
 ## Bug or Issues
 
   If you find a bug or have an issue with Python Snake, feel free to Submit an Issue.
+  
+## Future Updates
+
+  A future update will have different color snake and have timestamp to imporve leaderboard.
 	
 ## Repo owner 
 
