@@ -52,6 +52,6 @@ This is a Python script for a simple Snake game built using Pygame library. Pyga
 
   Jenil Patel
   
-  Email me:  <a href="mailto:jenilp110@gmail.com" target="_blank"> 
+  Email me:  jenilp110@gmail.com
   
 	
